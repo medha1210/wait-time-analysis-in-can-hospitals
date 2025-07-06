@@ -1,1 +1,1 @@
-# wait-time-analysis-in-can-hospitals
+# wait-time-analysis-in-canadian-hospitals
